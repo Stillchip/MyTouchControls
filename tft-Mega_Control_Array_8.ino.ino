@@ -78,8 +78,7 @@ String kpress_1[8][6] = {"01","02","03","04","05","06",
                        "31","32","33","34","35","36",
                        "37","38","39","40","40","42",
                        "43","44","45","46","47","48"};
-/
-/ pushbutton state for array of 48 buttons.
+// pushbutton state for array of 48 buttons.
 // quad state function (push on-push off).
 int lighted[8][6] =   {0,0,0,0,0,0,
                       0,0,0,0,0,0,
